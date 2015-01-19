@@ -1,0 +1,18 @@
+Para usar este ejemplo:
+
+ - Abrir un Bash.
+
+ - Posicionarse en este directorio.
+
+ - Crear la variable de entorno MINIENTREGA_CONF:
+
+   $ export MINIENTREGA_CONF=./conf
+
+ - Ejecutar el script minientrega.sh en este directorio indicando
+   prac1 como identificador de práctica:
+
+   $ minientrega.sh prac1
+
+ - El resultado es la "entrega" de los ficheros informe.txt y
+   programa.c que deberían haber sido copiados en el directorio
+   ./destino/entrega-prac1

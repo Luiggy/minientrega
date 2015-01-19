@@ -1,0 +1,13 @@
+.\" Manpage for minientrega.
+.\" Contact s100054@alumnos.fi.upm.es to correct errors
+
+.TH man 1 "1 October 2012" "1.0" "minientrega man page"
+.SH NAME
+minientrega \- envia al corrector una practica
+.SH SYNOPSIS
+minientrega [practica]
+.SH DESCRIPTION
+minientrega es un programa que se usa para simular la entrega de ficheros a un
+corrector.
+
+.SH OPTIONS

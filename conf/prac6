@@ -1,0 +1,4 @@
+MINIENTREGA_FECHALIMITE=2012-12-31
+MINIENTREGA_FICHEROS="fichero-buena1.c fichero-buena2.c"
+MINIENTREGA_DESTINO=./destino-buena
+

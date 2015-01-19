@@ -1,0 +1,3 @@
+MINIENTREGA_FECHALIMITE="2012-10-25"
+MINIENTREGA_FICHEROS="informe.txt programa.c"
+MINIENTREGA_DESTINO="./destino/entrega-prac2"

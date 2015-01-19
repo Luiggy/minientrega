@@ -1,0 +1,79 @@
+Este es el informe necesario para la entrega de la practica con id prac1.
+
+
+commit 3bd42d95d13477f71f948cd6cbb27ef7e29b8b53
+Author: Miguel Garcia Lafuente <miguelglafuente@gmail.com>
+Date:   Wed Oct 3 22:32:33 2012 +0200
+
+    Refactorizada la informacion de ayuda en una funcion, cuando hay un error, te dice cual es y te muestra la ayuda
+
+commit 4d47f9d7e03ae580116c55b04a32ec4611b12fc5
+Author: Luis Gil de Bernabé Pfeiffer <ljgbpfeiffer@googlemail.com>
+Date:   Wed Oct 3 20:36:14 2012 +0200
+
+    creado el mensaje de ayuda
+
+commit de188f8e4da74cf5a4ae9f91eff17c3dd421e4fa
+Author: Luis Gil de Bernabé Pfeiffer <ljgbpfeiffer@googlemail.com>
+Date:   Wed Oct 3 19:49:41 2012 +0200
+
+    delete
+
+commit 8b6fc42b60d21c60288ea24e9b1678a58a3edd63
+Author: Luis Gil de Bernabé Pfeiffer <ljgbpfeiffer@googlemail.com>
+Date:   Wed Oct 3 19:35:12 2012 +0200
+
+    creada la funcion que comprueba los parametros
+
+commit 31d0d26d5cb669b8dacf931b5307b13a263da72d
+Author: Luis Gil de Bernabé Pfeiffer  <ljgbpfeiffer@googlemail.com>
+Date:   Thu Sep 27 17:20:51 2012 +0200
+
+    Este es el man que me he creado
+
+commit f832dfcdd9606557845ef1a4bd551f080a103e73
+Author: Luis Gil de Bernabé Pfeiffer <ljgbpfeiffer@googlemail.com>
+Date:   Thu Sep 27 16:32:10 2012 +0200
+
+    Primer Comit Sibiendo el original
+commit e68160da3747428802d146ce268afa89bbaf1e35
+Author: Luis Gil de Bernabé Pfeiffer <ljgbpfeiffer@googlemail.com>
+Date:   Thu Oct 4 02:09:27 2012 +0200
+
+    Añadida funcion de si existe el fichero o no, y la de la fecha necesitan retoques aún
+
+commit 3bd42d95d13477f71f948cd6cbb27ef7e29b8b53
+Author: Miguel García Lafuente <miguelglafuente@gmail.com>
+Date:   Wed Oct 3 22:32:33 2012 +0200
+
+    Refactorizada la informacion de ayuda en una funcion, cuando hay un error, te dice cual es y te muestra la ayuda
+
+commit 4d47f9d7e03ae580116c55b04a32ec4611b12fc5
+Author: Miguel García Lafuente <miguelglafuente@gmail.com>
+Date:   Wed Oct 3 20:36:14 2012 +0200
+
+    creado el mensaje de ayuda
+
+commit de188f8e4da74cf5a4ae9f91eff17c3dd421e4fa
+Author: Luis Gil de Bernabé Pfeiffer <ljgbpfeiffer@googlemail.com>
+Date:   Wed Oct 3 19:49:41 2012 +0200
+
+    delete
+
+commit 8b6fc42b60d21c60288ea24e9b1678a58a3edd63
+Author: Luis Gil de Bernabé Pfeiffer <ljgbpfeiffer@googlemail.com>
+Date:   Wed Oct 3 19:35:12 2012 +0200
+
+    creada la funcion que comprueba los parametros
+
+commit 31d0d26d5cb669b8dacf931b5307b13a263da72d
+Author: Luis Gil de Bernabé Pfeiffer <ljgbpfeiffer@googlemail.com>
+Date:   Thu Sep 27 17:20:51 2012 +0200
+
+    Este es el man que me he creado
+
+commit f832dfcdd9606557845ef1a4bd551f080a103e73
+Author: Luis Gil de Bernabé Pfeiffer <ljgbpfeiffer@googlemail.com>
+Date:   Thu Sep 27 16:32:10 2012 +0200
+
+    Primer Comit Sibiendo el original
